@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Print_Numbers
+PURPOSE OF PROJECT: There will be two options, in no. 1 you can print numbers from a number to a number for example 1 to 10 it will print numbers from 1 to 10 and no. 2 it will print numbers from 1 to infinite Note: it can crash your system.
+VERSION or DATE: 1.0
+HOW TO START THIS PROJECT: Run the project as per your IDE
+AUTHORS: Biprajit Ghosh
+USER INSTRUCTIONS: Enjoy the Programs!!
