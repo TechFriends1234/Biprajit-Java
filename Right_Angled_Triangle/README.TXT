@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Right_Angled_Triangle
+PURPOSE OF PROJECT: It will give you the the hypotenuse by base and height,base by height and height and base by base and hypotenuse
+VERSION or DATE: 1.0
+HOW TO START THIS PROJECT: Run the project as per your IDE
+AUTHORS: Biprajit Ghosh
+USER INSTRUCTIONS: Enjoy the Programs!!
